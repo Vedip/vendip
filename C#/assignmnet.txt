@@ -1,0 +1,32 @@
+/*
+ * Created by SharpDevelop.
+ * User: Vendip
+ * Date: 3/18/2020
+ * Time: 11:34 AM
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
+
+namespace assignment_1
+{
+	class Program
+	{
+		public static void Main(string[] args)
+		{
+			if (10>5){
+				Console.WriteLine("You are Correct");
+			
+				}
+			else{
+				Console.WriteLine("Getout!!!");
+			}
+				// TODO: Implement Functionality Here
+			
+			Console.Write("Press any key to continue . . . ");
+			Console.ReadKey(true);
+		}
+			
+		
+	}
+}
